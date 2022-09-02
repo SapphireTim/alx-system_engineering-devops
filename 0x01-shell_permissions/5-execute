@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+chmod u+x 5-execute
+=======
+chmod u+x hello
+>>>>>>> execute
